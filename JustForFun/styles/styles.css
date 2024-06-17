@@ -86,7 +86,7 @@ nav ul li a:hover{
 #piha{
     --backgroundimage: url("../images/piha.jpg");
     --backgroundpos: left;
-}
+}x1
 
 #queenstown{
     --backgroundimage: url("../images/queenstown.jpg");
@@ -101,4 +101,9 @@ nav ul li a:hover{
 #taupo{
     --backgroundimage: url("../images/taupo.jpg");
     --backgroundpos: right; 
+}
+
+#depressed{
+    --backgroundimage: url("../images/depression.jpg");
+    --backgroundpos: left; 
 }
